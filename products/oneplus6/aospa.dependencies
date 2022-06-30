@@ -40,5 +40,17 @@
         "repository":   "platform/external/tinyxml",
         "target_path":  "external/tinyxml",
         "revision":     "refs/tags/LA.QSSI.11.0.r1-14400-qssi.0"
+    },
+    {
+        "remote":       "caf_system",
+        "repository":   "platform/hardware/nxp/nfc",
+        "target_path":  "vendor/nxp/nfc",
+        "revision":     "refs/tags/LA.UM.10.3.r1-01700-sdm845.0"
+    },
+    {
+        "remote":       "caf_system",
+        "repository":   "platform/hardware/nxp/secure_element,
+        "target_path":  "vendor/nxp/secure_element",
+        "revision":     "refs/tags/LA.UM.10.3.r1-01700-sdm845.0"
     }
 ]
